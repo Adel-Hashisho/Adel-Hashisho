@@ -35,10 +35,6 @@ Currently learning through hands-on projects and consistent daily practice.
 
 ## GitHub Stats
 
-[
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adel-Hashisho&show_icons=true&hide_border=true)
 
-](https://github.com/Adel-Hashisho)
-
----
+![s](https://github-readme-stats.vercel.app/api?username=Adel-Hashisho&show_icons=true&hide_border=true)
