@@ -1,5 +1,5 @@
 # Adel Hashisho
-
+![Profile Views](https://komarev.com/ghpvc/?username=Adel-Hashisho&color=blue&style=flat)
 Aspiring Software Engineer | Learning C++ & OOP
 
 ---
