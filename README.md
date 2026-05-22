@@ -45,7 +45,6 @@ Currently learning through hands-on projects and consistent daily practice.
 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
 
-
 ## GitHub Stats
 
 > Stats will appear as I push more projects 🚀
