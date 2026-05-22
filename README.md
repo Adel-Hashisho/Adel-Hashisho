@@ -33,31 +33,24 @@ Currently learning through hands-on projects and consistent daily practice.
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
-
-
+ 
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-
-
+ 
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
-
-
+ 
 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
-
 
 
 ---
 
 ## GitHub Stats
 
-
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Adel-Hashisho&show_icons=true&theme=default&hide_border=true&count_private=true)
-
+<img src="https://github-readme-stats.vercel.app/api?username=Adel-Hashisho&show_icons=true&hide_border=true" width="450"/>
 
 
 ---
