@@ -22,8 +22,8 @@ Currently learning through hands-on projects and consistent daily practice.
 ## Projects
 
 | Project | Description | Tech |
-|--------|-------------|------|
-| [Rock Paper Scissors](https://github.com/Adel-Hashisho/rock-paper-scissors) | Console game with game logic | C++ |
+|---------|-------------|------|
+| [Rock Paper Scissors](https://github.com/Adel-Hashisho/Adel-Hashisho) | Console game with game logic | C++ |
 
 ---
 
@@ -46,12 +46,12 @@ Currently learning through hands-on projects and consistent daily practice.
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
 
 
+
 ---
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Adel-Hashisho&show_icons=true&hide_border=true" width="450"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=Adel-Hashisho&show_icons=true&hide_border=true&count_private=true" />
 
 ---
 
