@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Adel 👋
 
-<!--
-**Adel-Hashisho/Adel-Hashisho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Learning programming step by step.
 
-Here are some ideas to get you started:
+## Currently Learning
+- C++
+- Problem Solving
+- Object Oriented Programming
+- Software Engineering Basics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Rock Paper Scissors Game (C++)
+- More projects coming soon...
+
+## Tools
+- Visual Studio
+- Git & GitHub
+
+## Goals
+- Improve my programming skills
+- Build real projects
+- Study Software Engineering
+
+---
+
+> Consistency beats talent when talent doesn't work hard.
