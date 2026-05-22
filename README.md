@@ -24,3 +24,4 @@ Learning programming step by step.
 ---
 
 > Consistency beats talent when talent doesn't work hard.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adel-Hashisho&show_icons=true&theme=tokyonight&hide_border=true)
