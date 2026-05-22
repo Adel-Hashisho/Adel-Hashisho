@@ -48,3 +48,8 @@ Currently learning through hands-on projects and consistent daily practice.
 ## GitHub Stats
 
 > Stats will appear as I push more projects 🚀
+## Contact Me
+
+<a href="https://www.linkedin.com/in/adel-haşişo-5823223a7"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:adelha3762@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adel-Hashisho&theme=tokyonight&hide_border=true)
